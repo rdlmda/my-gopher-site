@@ -1,0 +1,12 @@
+services:
+  gopher:
+    image: joshkaiju/gophernicus
+    hostname: rdlmda.me
+    ports:
+      - "70:70"
+    environment:
+      - DISABLE_AUTOGEN_CAPS=1
+    volumes:
+      - ./data:/var/gopher
+    restart: unless-stopped
+

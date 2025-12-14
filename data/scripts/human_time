@@ -1,0 +1,38 @@
+#!/bin/sh
+# POSIX sh: convert seconds (integer) to human readable time
+# Usage: seconds_to_human.sh <seconds>
+
+SECONDS_INPUT=${1:-0}
+
+# Ensure non-negative integer (truncate fractional part if any)
+case "$SECONDS_INPUT" in
+  ''|*[!0-9]*)
+    echo "0 seconds"
+    exit 0
+    ;;
+esac
+
+s=$SECONDS_INPUT
+
+d=$((s / 86400))
+s=$((s % 86400))
+h=$((s / 3600))
+s=$((s % 3600))
+m=$((s / 60))
+s=$((s % 60))
+
+out=""
+
+if [ "$d" -ne 0 ]; then
+  out="$out${d}d "
+fi
+if [ "$h" -ne 0 ]; then
+  out="$out${h}h "
+fi
+if [ "$m" -ne 0 ]; then
+  out="$out${m}m "
+fi
+out="$out${s}s"
+
+# Trim leading/trailing spaces
+printf '%s\n' "$(printf '%s' "$out" | sed 's/^ *//; s/ *$//')"

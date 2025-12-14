@@ -1,0 +1,5 @@
+now=$(cut -d' ' -f22 /proc/self/stat)
+start=$(cut -d' ' -f22 /proc/1/stat)
+seconds=$(( (now - start) / 100 ))
+elapsed=$( $(dirname $0)/human_time $seconds )
+echo -n "Since 2025-09-15 * Uptime: $elapsed * "

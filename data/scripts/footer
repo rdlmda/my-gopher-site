@@ -1,5 +1,9 @@
 echo "<-- Stats -------------------------------------------------------->"
+/var/gopher/scripts/uptime
+/var/gopher/scripts/visits
+echo
 /var/gopher/scripts/updated
-/var/gopher/scripts/counter
-# echo -n "Uptime: "
-#uptime | cut -d " " -f 4- | cut -d "," -f 1
+echo
+echo "<----------------------------------------------------------------->"
+echo
+echo "All content by me, except where otherwise noted."

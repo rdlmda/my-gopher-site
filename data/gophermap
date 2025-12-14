@@ -1,3 +1,5 @@
+!Welcome to rdlmda's Gopher
+
 ██████╗ ██████╗ ██╗     ███╗   ███╗██████╗  █████╗ ██╗███████╗
 ██╔══██╗██╔══██╗██║     ████╗ ████║██╔══██╗██╔══██╗██║██╔════╝
 ██████╔╝██║  ██║██║     ██╔████╔██║██║  ██║███████║╚═╝███████╗
@@ -12,30 +14,27 @@
        ╚██████╔╝╚██████╔╝██║     ██║  ██║███████╗██║  ██║
         ╚═════╝  ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-                 ███████╗██╗████████╗███████╗
-                 ██╔════╝██║╚══██╔══╝██╔════╝
-                 ███████╗██║   ██║   █████╗  
-                 ╚════██║██║   ██║   ██╔══╝  
-                 ███████║██║   ██║   ███████╗
-                 ╚══════╝╚═╝   ╚═╝   ╚══════╝
-
-              Rudá Almeida - Technology Enthusiast
-
-<----------------------------------------------------------------->
-
-Welcome to rdlmda's Gopher site!
+<-------------- Rudá Almeida - Technology Enthusiast ------------->
 
 Best seen on a 67-characters-wide monospace terminal-ish interface
-Last updated on 2025-09-15 (but very much still under construction)
+
+<-- My Gopher Projects ------------------------------------------->
+
+hAwesome Gopher - The world's first Gopher-related "awesome list"	URL:https://github.com/rdlmda/awesome-gopher
+1GGBB - Gopherverse's GuestBooks Book	/ggbb
+
+<-- Guestbook ---------------------------------------------------->
+
+=./guestbook/counter.sh
+1Read what they said	/guestbook
+7Sign my guestbook you too!	/guestbook
 
 <-- Why a Gopher site in 2025? ----------------------------------->
-Well... Why not? ;P
 
-But if you'd rather be looking at a web site, you can
-hvisit my website in all its HTML & CSS glory	URL:https://rdlmda.me
+Well... Why not? There's DOZENS of us still using Gopher! ;P
 
-I also made the world's very first
-hAwesome Gopher awesome list	URL:https://github.com/rdlmda/awesome-gopher
+But if you'd rather be looking at a flashier and fancier thing, 
+hyou can visit my website in all its HTML & CSS glory!	URL:https://rdlmda.me
 
 <-- Things I am -------------------------------------------------->
 
@@ -47,53 +46,58 @@ you needed a modem for it.
 
  * Was born a while ago. Graduated. Paid taxes. Mostly expected to 
    die at some point (not too keen on this one, if I might add).
- * Currently (2012-2025 / onwards) working for the Federal 
-   University of Rio de Janeiro as part of their tech team, where 
-   I wear many hats:
+
+ * Working since 2012 for the Federal University of Rio de Janeiro 
+   as part of their tech team, where I wear many hats:
+
    * Creating and managing servers and websites;
+
    * Researching, developing and implementing institution-wide and 
      user-targeted improvements, policies and solutions;
+
    * Helping to mantain and ensure administrative and processual 
      integrity.
+
  * Organized WordPress Meetups and WordCamps (2013-2016).
+
  * Wrote articles for a tech blog (2011-2013).
+
  * Was part of a very short-lived tech podcast (2009).
 
 <-- Things I've presented ---------------------------------------->
 
-h“Segurança no WordPress: Teoria e Prática”	URL:https://saopaulo.wordcamp.org/2019/session/seguranca-no-wordpress-teoria-e-pratica/
-(“WordPress Security: Theory and Practice”)
+h"Segurança no WordPress: Teoria e Prática"	URL:https://saopaulo.wordcamp.org/2019/session/seguranca-no-wordpress-teoria-e-pratica/
+("WordPress Security: Theory and Practice")
 Tech Talk, WordCamp São Paulo, Brazil, 2019
 Video recording of the talk [TO BE UPLOADED]
 Presentation slides [TO BE UPLOADED]
 
-h“Guia Prático de Sobrevivência no WordPress Multisite”	URL:https://prezi.com/zqbc8eq8c0xh/guia-pratico-de-sobrevivencia-no-wordpress-multisite/
-(“Practical Survival Guide for WordPress Multisite”)
+h"Guia Prático de Sobrevivência no WordPress Multisite"	URL:https://prezi.com/zqbc8eq8c0xh/guia-pratico-de-sobrevivencia-no-wordpress-multisite/
+("Practical Survival Guide for WordPress Multisite")
 Tech Talk, WordCamp São Paulo, Brazil, 2014
 
 hMore presentations on SlideShare	URL:https://www.slideshare.net/rudaalmeida/presentations
 
-<-- Things I wrote ----------------------------------------------->
+1<-- Things I wrote ----------------------------------------------->	/writings
 
-/----- Tech ----/
+<----- Tech ------>
 
-“Do Androids Dream of Eletric DJs?” [TO BE UPLOADED]
+9"Do Androids Dream of Eletric DJs?" — Monography, 2024	/writings/collaborative-radios-2024.pdf
 Graduation paper on the development and implementation of an 
 interactive assistant for collaborative radios on the Zoom platform 
-during the global COVID pandemic (Monography, 2024)
+during the global COVID pandemic.
 
-/----- Fiction ----/
+<----- Fiction --->
 
-“No Sangue” (“In the blood”) — Short story, 2011 [TO BE UPLOADED]
+"No Sangue" ("In the blood") — Short story, 2011
 Part of the second volume of collected works from the "Clube da 
 Leitura" collective
 
-“Eppur si muove” (“And yet it moves”) — Short story, 2009
-[TO BE UPLOADED]
+"Eppur si muove" ("And yet it moves") — Short story, 2009
 Part of the first volume of collected works from the "Clube da 
 Leitura" collective
 
-<-- Things I built (or contributed to) --------------------------->
+<-- Things I built ----------------------------------------------->
 
 hOSTicket Archiver	URL:https://github.com/rdlmda/osticket-archiver/
 (Firefox browser extension, 2025).
@@ -116,17 +120,39 @@ Bookstore / record store
 (web sysadmin, 2012-present)
 
 <-- Contact ------------------------------------------------------>
+he-mail	URL:mailto:gopher@rdlmda.me
 XMPP (SOON)
-hSIP	URL:sip:2123156@connect.tilde.tel
 hIRC	URL:irc://irc.spotchat.org/#rdlmda
+hSIP	URL:sip:2123156@connect.tilde.tel
 
-These are mostly legacy accounts. Fuck proprietary, enshittified, 
-alghoritmized, corporate washed, far-right endorsing walled gardens. 
+Below are mostly legacy accounts. Fuck all these proprietary, 
+corporate-washed, alghoritmized, enshittified, misinformation
+i-ridden, far-right-endorsing walled gardens.	.
 
 hTelegram	URL:https://t.me/rdlmda
 hFacebook	URL:https://fb.com/rdlmda
 hTwitter	URL:https://twitter.com/rdlmda
 
+<-- Changelog ---------------------------------------------------->
+2025-11-02: Created the GGBB - Gopherverse's GuestBooks Book.
+            Improved the stats (last update time) on the footer.
+2025-10-29: Rearranged the layout (moved the changelog and stats
+            sections to the bottom of the page and removed the 
+            default Gophernicus footer).
+2025-10-26: Turns out my bot counter is EXTREMELY slow (30 seconds
+            vs. 0.025s). Reverted until I can optimize it further.
+2025-10-26: Improved visit counter: now with bot detection!
+2026-10-15: Fixed a guestbook bug where if a comment line started
+            with a type selector or special char, it would not be
+            rendered correctly.
+2025-10-08: Anonymized the guestbook entries. Mirrored on GitHub.
+2025-10-07: Created a Guestbook (see below). Source code available!
+2025-09-15: Joined the Gopherverse! Started this very "gopher hole".
+2025-09-12: Started the Awesome Gopher awesome list (see below).
+
 <-- Credits ------------------------------------------------------>
-hASCII Art above made with this tool	URL:https://ascii.co.uk/text
+All content by me, except where otherwise noted.
+hTool used to make the ASCII Art intro	URL:https://ascii.co.uk/text
 hDocker image with the Gophernicus server	URL:https://hub.docker.com/r/joshkaiju/gophernicus
+
+=/var/gopher/scripts/footer

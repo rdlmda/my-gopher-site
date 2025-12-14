@@ -6,7 +6,10 @@ services:
       - "70:70"
     environment:
       - DISABLE_AUTOGEN_CAPS=1
+      - DISABLE_SERVER_STATUS=1
+      - DISABLE_HAPROXY=1
+      - DISABLE_FOOTER=1
     volumes:
       - ./data:/var/gopher
+      - ./logs/gophernicus.log:/var/log/gophernicus.log
     restart: unless-stopped
-

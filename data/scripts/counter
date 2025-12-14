@@ -1,0 +1,4 @@
+START=2025-09-15
+VISITS=$(cat /var/log/gophernicus.log | grep -Ev "^(\S+ )?(45.165)|(146.164)|(189.92)|(179.240)" | wc -l)
+BOTS=$(echo 826)
+echo "Visits since $START: $VISITS (of which $BOTS or more are bots)."

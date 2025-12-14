@@ -1,0 +1,5 @@
+CURRENT_DATE=$(stat -c %y ./gophermap | cut -c 1-19)
+LATEST_DATE=$(find /var/gopher -name gophermap | xargs stat | grep Change | cut -d":" -f 2- | cut -d "." -f 1 | sort -r | head -n 1)
+
+echo "This section last updated on $CURRENT_DATE (UTC)."
+echo "This \"Gopherhole\" last updated on$LATEST_DATE (UTC)."

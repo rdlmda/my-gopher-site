@@ -1,0 +1,6 @@
+TITLE=$1
+HEADER=$2
+echo "!$TITLE"
+echo "1Back to the start	/"
+# install the "figlet" package
+figlet -f big "$HEADER" | grep -Ev '^(\s)+$'

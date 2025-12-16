@@ -1,5 +1,6 @@
-now=$(cut -d' ' -f22 /proc/self/stat)
-start=$(cut -d' ' -f22 /proc/1/stat)
-seconds=$(( (now - start) / 100 ))
-elapsed=$( $(dirname $0)/human_time $seconds )
-echo -n "Since 2025-09-15 * Uptime: $elapsed * "
+NOW=$(cut -d' ' -f22 /proc/self/stat)
+START=$(cut -d' ' -f22 /proc/1/stat)
+SECONDS=$(( (NOW - START) / 100 ))
+ELAPSED=$( $(dirname $0)/human_time $SECONDS )
+TOTAL=$(uptime | cut -d" " -f 4- | cut -d"," -f 1-2)
+echo "System uptime: $TOTAL hrs * Gopher uptime: $ELAPSED"

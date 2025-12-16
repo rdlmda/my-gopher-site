@@ -1,0 +1,30 @@
+=/var/gopher/scripts/header "Things I built" "Projects"
+
+<-- Code --------------------------------------------------------->
+hOSTicket Archiver	URL:https://github.com/rdlmda/osticket-archiver/
+(Firefox browser extension, 2025).
+Makes OSTicket a little better: allows manually archiving tickets, 
+and unarchives them upon new activity 
+
+                             * * *
+
+An yet-to-be-named comment-by-email system for the Slow Web (2025) 
+[Under Construction]
+
+                             * * *
+
+hMore code at GitHub	URL:https://github.com/rdlmda
+(Yes, I know... I'll move to a FOSS git host. Eventually.)
+
+<-- Websites ----------------------------------------------------->
+hallansieber.com.br	URL:https://allansieber.com.br
+Brazilian artist and cartoonist
+(design / web sysadmin, 2017-present)
+
+                             * * *
+
+hbaratosdaribeiro.com.br	URL:https://baratosdaribeiro.com.br
+Bookstore / record store
+(web sysadmin, 2012-present)
+
+=/var/gopher/scripts/footer

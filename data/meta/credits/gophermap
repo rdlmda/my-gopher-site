@@ -1,0 +1,6 @@
+=/var/gopher/scripts/header "Credits" "Credits"
+
+hTool used to make the ASCII Art intro	URL:https://ascii.co.uk/text
+hDocker image with the Gophernicus server	URL:https://hub.docker.com/r/joshkaiju/gophernicus
+
+=/var/gopher/scripts/footer

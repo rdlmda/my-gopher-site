@@ -1,0 +1,22 @@
+=/var/gopher/scripts/header "Change log" "Change log"
+
+2025-12-14: Made things simpler and more compact.
+            Moved content into individual sections.
+            Added uptime counter to the stats.
+2025-11-02: Created the GGBB - Gopherverse's GuestBooks Book.
+            Improved the stats (last update time) on the footer.
+2025-10-29: Rearranged the layout (moved the changelog and stats
+            sections to the bottom of the page and removed the 
+            default Gophernicus footer).
+2025-10-26: Turns out my bot counter is EXTREMELY slow (30 seconds
+            vs. 0.025s). Reverted until I can optimize it further.
+2025-10-26: Improved visit counter: now with bot detection!
+2026-10-15: Fixed a guestbook bug where if a comment line started
+            with a type selector or special char, it would not be
+            rendered correctly.
+2025-10-08: Anonymized the guestbook entries. Mirrored on GitHub.
+2025-10-07: Created a Guestbook (see below). Source code available!
+2025-09-15: Joined the Gopherverse! Started this very "gopher hole".
+2025-09-12: Started the Awesome Gopher awesome list (see below).
+
+=/var/gopher/scripts/footer

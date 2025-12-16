@@ -1,0 +1,46 @@
+WHY DOES THIS SITE LOOK SO CRAPPY?!
+
+
+SHORT ANSWER:  It doesn't.
+
+LONG ANSWER: It's a matter of perspective.  If you're approaching this 
+site from the Web side of things, then I'm the first to admit that it's 
+butt ugly -- just pitiful.  But if you're looking at this from a gopher 
+point-of-view, then I'm actually rather proud of it.  See, this site 
+begins life on a pygohperd server.  Yes, GOPHER.  That thing from the 
+early '90's, still alive, still kicking.  And this particular 
+incarnation has a very cool super-power: it creates a Web version of 
+each and every gopher page on this site, on-the-fly, whenever a Web 
+version of any of the gopher page addresses is requested.  Sweet, huh?  
+It's like getting two servers for the price of one...except that this is 
+Free (as in beer, as well as in speech) software, and it doesn't cost a 
+dime.
+
+This sweetness does have a price, though, and it comes in the form of 
+occasional incompatibility with fussy operating systems and/or browsers 
+(browsers especially -- SHAME on Mozilla for dropping gopher support in 
+Firefox 4.X!); not to mention people's general unfamiliarity these days 
+with the alien entity that is gopher.  Once the lion share of the 
+Internet, gopher has now become a curious oddity (at best), or a point 
+of ridicule (at worst).  In truth it is neither.  It is, quite simply, 
+one of the easiest and most efficient ways to serve up content that I 
+know of.  As a flat-file (read that, text) server, it has no peer; as a 
+download source of larger media files, I suspect it will also excel.  
+People have been using it to serve up audio and image files for decades, 
+in fact, and now it's my turn to do the same.
+
+I tell you, there's something very liberating about not having to worry 
+over "themes" or "Web formatting" or whatever.  When you use gopher, you 
+drop your files onto the server, maybe add a notation to a gophermap if 
+you're using one (which is purely optional), and...that's it.  No muss, 
+no fuss, no dicking around with CMS, CSS, stylesheets, or even HTML.  
+Unless you want to.  Which I don't.  It defeats the purpose, see?
+
+So you can hate my content if you want, that's fine with me.  But DON'T 
+you be dissin' gopher, or we're fightin'!
+
+
+Feb, 01, 2011
+(c) 2011 lostnbronx
+CC BY SA 3.0
+lostnbronxATgmailDOTcom

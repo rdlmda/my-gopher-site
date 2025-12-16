@@ -1,0 +1,18 @@
+=/var/gopher/scripts/header "Things I message on" "Contact"
+
+<-- FOSS --------------------------------------------------------->
+he-mail	URL:mailto:gopher@rdlmda.me
+XMPP (SOON)
+hIRC	URL:irc://irc.spotchat.org/#rdlmda
+hSIP	URL:sip:2123156@connect.tilde.tel
+
+<-- Legacy ------------------------------------------------------->
+Fuck all these proprietary, corporate-washed, alghoritmized, 
+enshittified, misinformation-ridden, far-right-endorsing 
+walled gardens.
+
+hTelegram	URL:https://t.me/rdlmda
+hFacebook	URL:https://fb.com/rdlmda
+hTwitter	URL:https://twitter.com/rdlmda
+
+=/var/gopher/scripts/footer

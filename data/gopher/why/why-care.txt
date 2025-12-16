@@ -1,0 +1,60 @@
+Why should I care about Gopher? 
+By John Mercouris
+
+
+What is Gopher?
+
+Gopher can be one of a few things:
+
+    an animal
+    an Internet protocol
+
+Obviously, as engineers, we are chiefly concerned with the animal. Therefore, the following article will cover all of the important details about its habitat, diet- I'm sorry- one second.
+
+(muffled noises from the telephone)
+
+Aha, sorry, there has been a slight mix-up. It seems we'll be talking about the Internet protocol. OK, so, where were we? Ah right, the beginning.
+
+It all started one fateful day in 1991 when Mark McCahill at the University of Minnesota released an implementation of the Gopher protocol.
+
+What Mark produced was text friendly, indexable, and actually quite limited in its capabilities. It was a glorified markdown file you could share with friends. You can imagine it as the Web without HTML and JavaScript, and thankfully, no marquee tag [1].
+
+At the time of its release, Gopher exploded in popularity. Everywhere all over the world people were writing and sharing amazing content on the Gopher web. A golden era of text documents.
+
+Alas, all good things must come to an end. Long story short, Gopher lost to HTML and the Web [2]. This was the fork in the road that led us to the dark timeline we are on today. Given that Gopher lost, why should we care about it? Is it still relevant?
+
+iThe Last Day of Pompeii - Karl Bryullov, 1833	.
+
+More than a protocol
+
+We should care about Gopher for the same reason that we care about IRC- it's difficult to use. This makes it an antidote for the Eternal September [3].
+
+In the year 2022, Gopher is hard to use. You must go out of your way to learn how to use Gopher, install a client, find documents, etc. By making something a little bit more inaccessible, we are inadvertently putting a filter on what is being posted.
+
+Publishing low effort nonsense on Facebook, YouTube, Twitter et al is so so trivial. You can troll without problem. Set-up an account, and you're off to the races. However, publishing nonsense on Gopher requires some commitment. It is a non-trivial proposition. This makes it a great way to avoid a lot of the low effort noise published on popular/accessible platforms.
+
+As a result, Gopher is full of interesting, enriching, high quality content. The authors are posting out of passion, and with great commitment. Don't get me wrong, there's nonsense on Gopher too, but far less of it.
+
+iGopher on the Nyxt browser	.
+
+Light at the end of the tunnel
+
+The good news is that we don't need Gopher to become huge. We don't want more more more, there's already plenty plenty plenty on Web1/Web2. We want quality, quality, quality- and we have that! The Gopher web isn't going anywhere, it's here to stay, enriching us with fascinating and quirky content for decades to come.
+
+And here's the best part, you can now browse the Gopher web on the latest version of Nyxt[4]! We hope you enjoy the Gopher web as much as we have.
+
+Thanks for reading :-)
+
+P.S. you can even browse HN on Gopher!
+
+iHacker News on Gopher on the Nyxt browser	.
+
+
+    [1] The marquee tag is an old HTML tag that was used to create scrolling text on web pages. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee↩
+
+    [2] The details of how and why this happened are not really relevant to us. If you are curious, many people have already written about this topic. If you want my two cents, I blame the copyright restrictions on early releases of the de-facto Gopher client/server implementations.↩
+
+    [3] https://en.wikipedia.org/wiki/Eternal_September↩
+
+    [4] Try gopher://gopher.club:70/1/phlogs/ for a good start, you'll find plenty of fascinating phlogs (Gopher blogs) and documents that you cannot find anywhere else.↩
+
